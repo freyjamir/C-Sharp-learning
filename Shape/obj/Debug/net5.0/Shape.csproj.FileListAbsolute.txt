@@ -1,0 +1,16 @@
+e:\Programming\C-Sharp-learning\Shape\bin\Debug\net5.0\Shape.exe
+e:\Programming\C-Sharp-learning\Shape\bin\Debug\net5.0\Shape.deps.json
+e:\Programming\C-Sharp-learning\Shape\bin\Debug\net5.0\Shape.runtimeconfig.json
+e:\Programming\C-Sharp-learning\Shape\bin\Debug\net5.0\Shape.runtimeconfig.dev.json
+e:\Programming\C-Sharp-learning\Shape\bin\Debug\net5.0\Shape.dll
+e:\Programming\C-Sharp-learning\Shape\bin\Debug\net5.0\ref\Shape.dll
+e:\Programming\C-Sharp-learning\Shape\bin\Debug\net5.0\Shape.pdb
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.csprojAssemblyReference.cache
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.AssemblyInfoInputs.cache
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.AssemblyInfo.cs
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.csproj.CoreCompileInputs.cache
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.dll
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\ref\Shape.dll
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.pdb
+e:\Programming\C-Sharp-learning\Shape\obj\Debug\net5.0\Shape.genruntimeconfig.cache

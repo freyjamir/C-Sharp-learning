@@ -1,0 +1,16 @@
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\bin\Debug\net5.0\HelloWorld_VSCode.exe
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\bin\Debug\net5.0\HelloWorld_VSCode.deps.json
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\bin\Debug\net5.0\HelloWorld_VSCode.runtimeconfig.json
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\bin\Debug\net5.0\HelloWorld_VSCode.runtimeconfig.dev.json
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\bin\Debug\net5.0\HelloWorld_VSCode.dll
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\bin\Debug\net5.0\ref\HelloWorld_VSCode.dll
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\bin\Debug\net5.0\HelloWorld_VSCode.pdb
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.csprojAssemblyReference.cache
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.GeneratedMSBuildEditorConfig.editorconfig
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.AssemblyInfoInputs.cache
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.AssemblyInfo.cs
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.csproj.CoreCompileInputs.cache
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.dll
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\ref\HelloWorld_VSCode.dll
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.pdb
+e:\Programming\C-Sharp-learning\HelloWorld_VSCode\obj\Debug\net5.0\HelloWorld_VSCode.genruntimeconfig.cache

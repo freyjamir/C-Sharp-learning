@@ -1,0 +1,16 @@
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.csprojAssemblyReference.cache
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+e:\Programming\C-Sharp-learning\Calculator\bin\Debug\net5.0\Calculator.exe
+e:\Programming\C-Sharp-learning\Calculator\bin\Debug\net5.0\Calculator.deps.json
+e:\Programming\C-Sharp-learning\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+e:\Programming\C-Sharp-learning\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+e:\Programming\C-Sharp-learning\Calculator\bin\Debug\net5.0\Calculator.dll
+e:\Programming\C-Sharp-learning\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+e:\Programming\C-Sharp-learning\Calculator\bin\Debug\net5.0\Calculator.pdb
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.dll
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.pdb
+e:\Programming\C-Sharp-learning\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
